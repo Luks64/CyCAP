@@ -1,0 +1,53 @@
+c:\windows\system32\config\systemprofile\documents\visual studio 2012\Projects\CyCAP\CyCAP\bin\Debug\CyCAP.exe.config
+c:\windows\system32\config\systemprofile\documents\visual studio 2012\Projects\CyCAP\CyCAP\bin\Debug\CyCAP.exe
+c:\windows\system32\config\systemprofile\documents\visual studio 2012\Projects\CyCAP\CyCAP\bin\Debug\CyCAP.pdb
+c:\windows\system32\config\systemprofile\documents\visual studio 2012\Projects\CyCAP\CyCAP\bin\Debug\MetroFramework.Design.dll
+c:\windows\system32\config\systemprofile\documents\visual studio 2012\Projects\CyCAP\CyCAP\bin\Debug\MetroFramework.dll
+c:\windows\system32\config\systemprofile\documents\visual studio 2012\Projects\CyCAP\CyCAP\bin\Debug\MetroFramework.Fonts.dll
+c:\windows\system32\config\systemprofile\documents\visual studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.csprojResolveAssemblyReference.cache
+c:\windows\system32\config\systemprofile\documents\visual studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.Form1.resources
+c:\windows\system32\config\systemprofile\documents\visual studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.Properties.Resources.resources
+c:\windows\system32\config\systemprofile\documents\visual studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.csproj.GenerateResource.Cache
+c:\windows\system32\config\systemprofile\documents\visual studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.exe
+c:\windows\system32\config\systemprofile\documents\visual studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\bin\Debug\CyCAP.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\bin\Debug\CyCAP.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\bin\Debug\CyCAP.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.ViewScan.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\bin\Debug\CyCAP.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\bin\Debug\CyCAP.application
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.application
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.AddFraudsterForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.AddDetails.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\obj\Debug\CyCAP.ViewFraudsterPic.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\bin\Debug\LuksDB.mdf
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CyCAP\CyCAP\bin\Debug\LuksDB_log.ldf
+E:\Warez\dev\CyCAP\CyCAP\obj\Debug\CyCAP.csproj.AssemblyReference.cache
+E:\Warez\dev\CyCAP\CyCAP\obj\Debug\CyCAP.AddDetails.resources
+E:\Warez\dev\CyCAP\CyCAP\obj\Debug\CyCAP.AddFraudsterForm.resources
+E:\Warez\dev\CyCAP\CyCAP\obj\Debug\CyCAP.Form1.resources
+E:\Warez\dev\CyCAP\CyCAP\obj\Debug\CyCAP.Properties.Resources.resources
+E:\Warez\dev\CyCAP\CyCAP\obj\Debug\CyCAP.ViewFraudsterPic.resources
+E:\Warez\dev\CyCAP\CyCAP\obj\Debug\CyCAP.ViewScan.resources
+E:\Warez\dev\CyCAP\CyCAP\obj\Debug\CyCAP.csproj.GenerateResource.cache
+E:\Warez\dev\CyCAP\CyCAP\obj\Debug\CyCAP.csproj.CoreCompileInputs.cache
+E:\Warez\dev\CyCAP\CyCAP\obj\Debug\CyCAP.exe
+E:\Warez\dev\CyCAP\CyCAP\obj\Debug\CyCAP.pdb
+E:\Warez\dev\CyCAP\CyCAP\bin\Debug\LuksDB.mdf
+E:\Warez\dev\CyCAP\CyCAP\bin\Debug\LuksDB_log.ldf
+E:\Warez\dev\CyCAP\CyCAP\bin\Debug\CyCAP.exe.config
+E:\Warez\dev\CyCAP\CyCAP\bin\Debug\CyCAP.exe.manifest
+E:\Warez\dev\CyCAP\CyCAP\bin\Debug\CyCAP.application
+E:\Warez\dev\CyCAP\CyCAP\bin\Debug\CyCAP.exe
+E:\Warez\dev\CyCAP\CyCAP\bin\Debug\CyCAP.pdb
+E:\Warez\dev\CyCAP\CyCAP\obj\Debug\CyCAP.exe.manifest
+E:\Warez\dev\CyCAP\CyCAP\obj\Debug\CyCAP.application
+E:\Warez\dev\CyCAP\CyCAP\obj\Debug\CyCAP.csproj.CopyComplete
